@@ -1,3 +1,4 @@
+# Solved using Top down approach of Dynamic Programming
 class Solution:
     def canPartition(self, nums: List[int]) -> bool:
         sum_nums = sum(nums)
