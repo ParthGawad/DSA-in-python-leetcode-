@@ -20,4 +20,4 @@ class Solution:
                    tempdp.add(nums[i] + t)
            dp = tempdp
         return False
- 
+ # memory complexity : O(n*sums(n))
